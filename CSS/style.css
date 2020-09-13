@@ -1,0 +1,71 @@
+.ods5{
+    width: 1344px;
+    height: 250px;
+}
+
+li{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 15px;
+    font-size: 15px;
+}
+
+.objetivos{
+    width: 45%;
+    text-align: justify;
+    margin-top: 40px;
+    margin-left: 10px;
+    padding-right: 20px;
+    border: rgb(230, 46, 32) 3px solid;
+    display: inline-block;
+}
+
+.objetivos_p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.sobre{
+    width: 45%;
+    text-align: justify;
+    margin-top: 40px;
+    margin-left: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    border: rgb(230, 46, 32) 3px solid;
+    display: inline-block;
+}
+
+.sobre_p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.quemsou{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.span{
+    font-family: 'Montserrat', sans-serif;
+    color:rgb(230, 46, 32);
+    font-size: 30px;
+}
+
+.sites{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(230, 46, 32);
+}
+a:hover{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: blueviolet;
+}
